@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhupendra Prajapati</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flashkoder&label=Profile%20views&color=0e75b6&style=flat" alt="flashkoder" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Google Cloud Computing , Data Analytics using R, Amazon AWS**
+- 🌱 I’m currently learning **Google Cloud Computing, Data Analytics using R, Amazon AWS**
 
 - 📫 How to reach me **bhupendrasuper10@gmail.com**
 
