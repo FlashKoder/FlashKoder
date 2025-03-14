@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Google Cloud Computing, Data Analytics using R, Amazon AWS**
+- 🌱 I’m currently learning **Neo4j Graph Database**
 
 - 📫 How to reach me **bhupendrasuper10@gmail.com**
-
-- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
